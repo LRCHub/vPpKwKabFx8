@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "車輪の唄",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2025-12-12T13:41:43.847062Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "車輪の唄",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/01_車輪の唄_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sharin No Uta [車輪の唄]",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/02_Sharin_No_Uta_[車輪の唄]_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "車輪の唄",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/03_車輪の唄_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "車輪の唄",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/04_車輪の唄_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "車輪の唄",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/05_車輪の唄_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "車輪の唄",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_車輪の唄_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
